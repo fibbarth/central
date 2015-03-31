@@ -15,5 +15,4 @@ rows = cur.fetchall()
 for row in rows:
     print row[1]
 
-#more imports
 import application.views
